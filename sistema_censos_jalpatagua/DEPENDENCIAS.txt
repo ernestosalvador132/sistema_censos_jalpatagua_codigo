@@ -1,0 +1,5 @@
+Después de crear el proyecto Laravel, ejecutar:
+
+composer require phpoffice/phpspreadsheet
+
+Esto habilita la exportación real a Excel (.xlsx) del módulo de Reportes.
